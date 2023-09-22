@@ -1,35 +1,32 @@
-### Merhaba, Benim Ruveyda
+<img src = "https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" align = "right" widht = "400" height = "250">
 
-👨‍💻 Yazılım Geliştirici
-🌐 Web Teknolojileri Meraklısı
-📚 Açık Kaynak Tutkunu
-📫 İletişim: [E-posta Adresiniz]
+### Hi there, I'm Ruveyda.👋
 
-#### 🚀 Favori Teknolojilerim:
-- 🌐 Web Geliştirme: HTML, CSS, JavaScript, React
-- 🐍 Programlama Dilleri: Python, JavaScript
-- 📦 Veritabanları: MySQL, MongoDB
-- 🛠️ Araçlar: Git, Visual Studio Code
+## Flutter Developer 
 
-#### 🌱 Şu Anda Öğrenmekte Olduklarım:
-- 📱 Mobil Uygulama Geliştirme: React Native
-- 🐘 PostgreSQL ve GraphQL
+### Reach out to me
 
-#### 📝 Proje Örnekleri:
-- 🌐 [Proje Adı 1](Proje URL)
-- 📦 [Proje Adı 2](Proje URL)
+[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" style="background-color:white;" />][linkedin]
 
-#### 📫 Bana Ulaşın:
-- LinkedIn: [LinkedIn Profilinizin URL'si](LinkedIn Profilinizin URL'si)
-- Twitter: [@ruveydagunal](https://twitter.com/ruveydagunal)
-- Kişisel Blog: [Blog URL'niz](Blog URL'niz)
+<br />
+<br />
 
-#### 📊 GitHub İstatistikleri:
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=ruveydagunal&show_icons=true&count_private=true)
+### Tech I use
 
-#### 📚 En Çok Kullandığım Diller:
-![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=ruveydagunal&layout=compact)
+<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" widht = "25" height = "25" /> <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" widht = "25" height = "25" /> <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" widht = "25" height = "25" /> <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" widht = "25" height = "25" />
+<br />
+<br />
 
-#### 🛠️ Kullandığım Araçlar ve Teknolojiler:
-![Kullandığım Araçlar](https://github-readme-techstack.vercel.app/api?username=ruveydagunal)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ruveydagunal&theme=dracula)](https://git.io/streak-stats)
 
+
+<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruveydagunal&theme=radical)
+
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruveydagunal&theme=radical)
+
+[twitter]: https://twitter.com/m_melihdev
+[linkedin]: https://www.linkedin.com/in/ruveyda-g%C3%BCnal-729738174
