@@ -6,7 +6,7 @@
 
 ### Reach out to me
 
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" style="background-color:white;" />][linkedin]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruveyda-gunal/)
 
 <br />
 <br />
